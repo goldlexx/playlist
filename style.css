@@ -1,0 +1,20 @@
+h1 {
+  font-family: "William", serif;
+  font-style: italic;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: "Inter", sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+p {
+font-family: "Inter", sans-serif;
+}
+
+img {
+width: 230px;
+}
