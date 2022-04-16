@@ -34,7 +34,7 @@ div {
   width: 500px;
   height: 500px;
   text-align: center;
-  background-color: aquamarine;
+background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
 }
 
 img {
