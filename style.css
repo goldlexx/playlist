@@ -3,9 +3,11 @@ h1 {
   margin-bottom: 0;
   padding-top: 34px;
   font-family: "William", serif;
+  font-weight: normal;
   font-style: italic;
   font-size: 24px;
   text-transform: uppercase;
+  color: white;
 }
 
 h2 {
@@ -14,19 +16,33 @@ h2 {
   font-family: "Inter", sans-serif;
   font-size: 30px;
   text-transform: uppercase;
+  color: white;
+}
+
+h3 {
+margin: 0;
+font-family: "William", serif;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+text-transform: uppercase;
+color: white;
 }
 
 div {
+  margin: auto;
   width: 500px;
   height: 500px;
   text-align: center;
-  background-color: Yellow;
+  background-color: aquamarine;
 }
 
 img {
+  margin-bottom: 50px;
   width: 230px;
 }
 
 p {
   font-family: "Inter", sans-serif;
+  text-align: center;
 }
