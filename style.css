@@ -56,3 +56,39 @@ p {
   text-align: center;
   color: #fff;
 }
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 16px;
+}
+
+body > div {
+  width: min(700px, 100%);
+  height: auto;
+  min-height: 600px;
+  padding: 16px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 20px;
+  }
+
+  h2 {
+    font-size: 26px;
+  }
+
+  body > div {
+    min-height: 0;
+    padding-bottom: 32px;
+  }
+}
