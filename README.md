@@ -1,25 +1,16 @@
-# Обложка для альбома 
+# The Life of Coder
 
-## Описание:
+A small static album-cover layout featuring Nightwish's 1996 album and a Yandex Music playlist link. The page uses HTML and CSS and has no build step.
 
-"Обложка для альбома" - это знакомство с версткой в рамках обучения на курсе ["Веб-разработчик"](https://praktikum.yandex.ru/web/).
+## Live page
 
-| **GithHub Pages** | [Обложка на GitHub Pages](https://goldlexx.github.io/playlist/) |
-| ----------------- | -------------------------------------------------------------------- |
+[Open the GitHub Pages demo](https://goldlexx.github.io/playlist/).
 
+## Run locally
 
-## Инструкция по установке:
+Open `index.html` in a browser, or serve the repository root with a static HTTP server. No dependencies need to be installed.
 
-```
-git clone https://github.com/goldlexx/playlist.git
-```
-Запустите локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц - [How do you set up a local testing server? (MDN web docs)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
+## Technologies
 
-
-
-
-
-
-
-
-
+- HTML
+- CSS
