@@ -1,16 +1,25 @@
-# The Life of Coder
+<div align="center">
 
-A small static album-cover layout featuring Nightwish's 1996 album and a Yandex Music playlist link. The page uses HTML and CSS and has no build step.
+# 🎵 The Life of Coder
 
-## Live page
+Статичная страница-обложка альбома Nightwish с переходом к плейлисту Yandex Music.
 
-[Open the GitHub Pages demo](https://goldlexx.github.io/playlist/).
+[![HTML](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-222?logo=github)](https://goldlexx.github.io/playlist/)
 
-## Run locally
+</div>
 
-Open `index.html` in a browser, or serve the repository root with a static HTTP server. No dependencies need to be installed.
+## Демонстрация
 
-## Technologies
+[Открыть страницу](https://goldlexx.github.io/playlist/)
 
-- HTML
-- CSS
+## Запуск
+
+Откройте `index.html` или используйте статичный HTTP-сервер.
+
+## Технологии
+
+HTML и CSS.
+
+## Лицензия
+
+Лицензия в репозитории не указана.
