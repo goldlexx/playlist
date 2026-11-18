@@ -1,25 +1,19 @@
 <div align="center">
 
-# 🎵 The Life of Coder
+# 🎧 The Life of Coder
 
-Статичная страница-обложка альбома Nightwish с переходом к плейлисту Yandex Music.
+**Музыкальная открытка, стилизованная под обложку с надписями «1996» и «Nightwish».**
 
-[![HTML](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-222?logo=github)](https://goldlexx.github.io/playlist/)
+![HTML](https://img.shields.io/badge/HTML-D94D27) ![CSS](https://img.shields.io/badge/CSS-5546A6)
+
+[Открыть обложку](https://goldlexx.github.io/playlist/)
 
 </div>
 
-## Демонстрация
+Композицию задают крупная типографика и контраст между заголовком и подписью. Ссылка «Плейлист» ведёт на страницу исполнителя в Яндекс Музыке. Прослушивание происходит в музыкальном сервисе.
 
-[Открыть страницу](https://goldlexx.github.io/playlist/)
+![Типографическая композиция The Life of Coder](docs/interface.jpg)
 
-## Запуск
+## Локальный запуск
 
-Откройте `index.html` или используйте статичный HTTP-сервер.
-
-## Технологии
-
-HTML и CSS.
-
-## Лицензия
-
-Лицензия в репозитории не указана.
+Откройте `index.html` из корня репозитория в браузере.
